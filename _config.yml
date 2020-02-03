@@ -22,7 +22,7 @@ title: FCB Games
 email: abuse.ombudsman@gmail.com
 description: Partidos completos del FC Barcelona.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.io/abuseombudsman/FCBarcelona-Games" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fcbgames.cf" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  abuseombudsman
 squad: FC Barcelona
